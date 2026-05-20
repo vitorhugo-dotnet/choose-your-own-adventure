@@ -1,0 +1,8 @@
+{
+  "name": "Choose Your Own Adventure Engine",
+  "description": "An infinite, AI-powered choose-your-own-adventure game with persistent inventory, dynamic quests, and real-time generated consistent art illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
